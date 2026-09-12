@@ -1,4 +1,4 @@
-[English](https://github.com/MeowStudio-Project/.github/blob/main/profile/README.md) | 繁體中文 | 简体中文
+[English](https://github.com/MeowStudio-Project/.github/blob/main/profile/README.md) | 繁體中文 | [简体中文](https://github.com/MeowStudio-Project/.github/blob/main/profile/README_zhCN.md)
 
 # 資訊
 
