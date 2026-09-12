@@ -1,0 +1,8 @@
+`English | 繁體中文 | 简体中文`
+
+# Info
+
+Welcome to the MeowStudio Community!  
+You can also think of this as MeowStudio’s organization.
+
+Most repositories in the Community are written in **Traditional Chinese (繁體中文)**. If you **can’t read Traditional Chinese**, **I’m VERY SORRY!!!!!!!** You can turn on **Translation** and translate the content into your preferred language.
