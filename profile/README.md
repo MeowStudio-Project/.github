@@ -1,4 +1,4 @@
-`English | 繁體中文 | 简体中文`
+English | [繁體中文](https://github.com/MeowStudio-Project/.github/blob/main/profile/README_zhTW.md) | 简体中文
 
 # Info
 
